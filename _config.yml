@@ -1,0 +1,8 @@
+title: Bootstrap-mediawiki
+description: A MediaWiki skin using Bootstrap 3 & FontAwesome 4
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-dinky
+
+gems:
+  - jekyll-mentions
